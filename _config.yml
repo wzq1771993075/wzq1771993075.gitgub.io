@@ -1,12 +1,12 @@
 # Site settings
 title: 卫振奇的博客
-email: suyan0830@gmail.com
+email: wzq1771993075@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   卫振奇的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://wzq1771993075 # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Zhenqi Wei
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,19 +14,16 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+github: wzq1771993075
+
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: http://oudk7gckj.bkt.clouddn.com/avator-small.png
 favicon: http://oudk7gckj.bkt.clouddn.com/avator-small.png
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: wzq1771993075
 
 # # google analytics config
 # ga:
