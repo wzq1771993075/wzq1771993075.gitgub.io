@@ -1,2 +1,2 @@
-# wzq1771993075.gitgub.io
+# wzq1771993075.me
 My blog
