@@ -8,7 +8,7 @@ category: 工具
 ## Github Pages
 Github 提供了[Github Pages](https://pages.github.com/)的服务,不仅可以方便的为项目建立介绍站点，也可以用来搭建个人博客。它有以下的优点：
 1. 轻量级的博客系统，没有麻烦的配置
-2. 使用标记语言，比如[Markdown](http://markdown.tw/)
+2. 使用标记语言，比如[Markdown](http://wowubuntu.com/markdown/)
 3. 无需自己搭建服务器
 4. 根据Github的限制，对应的每个站有300MB空间
 5. 可以绑定自己的域名
